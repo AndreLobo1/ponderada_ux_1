@@ -7,7 +7,7 @@ A criação de personas e mapas de empatia é uma prática importante no design 
 
 Conheça **Amadou Diop**, nossa persona representativa para o público-alvo da nossa aplicação web. Amadou, um estudante de Negócios Internacionais de 22 anos de Dakar, Senegal, exemplifica os desafios e aspirações dos nossos usuários.
 
-Amadou enfrenta desafios de comunicação em inglês e busca melhorar suas habilidades enquanto aprende sobre negócios internacionais. Ele vê o jogo CESIM como uma oportunidade, apesar do estresse que às vezes causa. Sua experiência cultural limitada e a pressão para se destacar no jogo CESIM são obstáculos que ele está determinado a superar.
+Amadou enfrenta desafios de comunicação em inglês e busca melhorar suas habilidades enquanto aprende sobre negócios internacionais. Ele vê o jogo CESIM como uma oportunidade, apesar do estresse que às vezes esta experiência pode causar. Sua experiência cultural limitada e a pressão para se destacar no jogo CESIM são obstáculos que ele está determinado a superar.
 
 Ele é dedicado, entusiasmado e vê a tecnologia como uma ferramenta poderosa para superar barreiras culturais. Seus objetivos e tarefas estão alinhados com o propósito da nossa aplicação web, o tornando uma persona ideal para nossa discussão.
 
