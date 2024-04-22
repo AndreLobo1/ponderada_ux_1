@@ -18,7 +18,7 @@ A imagem a seguir fornece uma representação visual mais detalhada de Amadou, i
 </p>
 
 <p align="center">
-  <img src="/assets/persona_amadou" alt="Imagem descritiva da persona Amadou Diop">
+  <img src="/assets/persona_amadou.png" alt="Imagem descritiva da persona Amadou Diop">
   <br>
   <i>Fonte: Elaboração própria</i>
 </p>
@@ -35,7 +35,7 @@ A imagem a seguir fornece uma representação visual mais detalhada de como Amad
 </p>
 
 <p align="center">
-  <img src="/assets/persona_mapa" alt="Imagem descritiva do mapa de empatia da persona Amadou Diop">
+  <img src="/assets/persona_mapa.png" alt="Imagem descritiva do mapa de empatia da persona Amadou Diop">
   <br>
   <i>Fonte: Elaboração própria</i>
 </p>
